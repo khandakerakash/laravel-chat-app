@@ -1,0 +1,17 @@
+body {
+    background-color: #FFFFFF!important;
+}
+
+.row {
+    padding-top: 5%;
+}
+
+.chat-window {
+    background-color: #F5F5F5;
+    border: 1px solid #dddddd;
+}
+
+.list-group {
+    overflow-y: scroll!important;
+    height: 200px !important;
+}
